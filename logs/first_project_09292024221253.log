@@ -1,0 +1,109 @@
+./test1.sh: line 33: year: command not found
+Start Download Data
+./test1.sh: line 33: year: command not found
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+--2024-09-29 22:12:54--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2020&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+--2024-09-29 22:12:54--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2020&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+Resolving climate.weather.gc.ca (climate.weather.gc.ca)... Resolving climate.weather.gc.ca (climate.weather.gc.ca)... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+200 OK
+Length: unspecified [application/force-download]
+Length: unspecified [application/force-download]
+Saving to: ‘/Users/athmhak/lab1/input/.csv’
+Saving to: ‘/Users/athmhak/lab1/input/.csv’
+
+     0K .......... .
+     0K ............... .......... ........ .......... ........ .......... ..........  728K........ ....
+    50K .......... ..........  728K
+    50K .......... .......... ................ .......... .......... ....... .... 1.81M
+   100K ................. .......... 1.81M
+   100K ....... ..... ............... ........ .........                           151M=0.1s
+
+2024-09-29 22:12:55 (1.30 MB/s) - ‘/Users/athmhak/lab1/input/.csv’ saved [130712]
+
+..                           151M=0.1s
+
+2024-09-29 22:12:55 (1.30 MB/s) - ‘/Users/athmhak/lab1/input/.csv’ saved [130712]
+
+./test1.sh: line 33: year: command not found
+./test1.sh: line 33: year: command not found
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+--2024-09-29 22:12:55--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2021&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+--2024-09-29 22:12:55--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2021&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+Resolving climate.weather.gc.ca (climate.weather.gc.ca)... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... Resolving climate.weather.gc.ca (climate.weather.gc.ca)... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+200 OK
+Length: unspecified [application/force-download]
+Length: unspecified [application/force-download]
+Saving to: ‘/Users/athmhak/lab1/input/.csv’
+Saving to: ‘/Users/athmhak/lab1/input/.csv’
+
+     0K .......
+     0K...  ................ .......... ....... .............. ..... .......... ............... ...........  822K
+    50K .......... ..........  822K
+    50K .......... .......... ............ .......... .......... ... ............. .......... 1.43M
+   100K ........ 1.43M
+   100K ................  .......... ............. ...                                                     117M    =0.1s
+
+2024-09-29 22:12:57 (1.27 MB/s) - ‘/Users/athmhak/lab1/input/.csv’ saved [126714]
+
+     117M=0.1s
+
+2024-09-29 22:12:57 (1.27 MB/s) - ‘/Users/athmhak/lab1/input/.csv’ saved [126714]
+
+./test1.sh: line 33: year: command not found
+./test1.sh: line 33: year: command not found
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+--2024-09-29 22:12:57--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2022&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+--2024-09-29 22:12:57--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2022&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+Resolving climate.weather.gc.ca (climate.weather.gc.ca)... Resolving climate.weather.gc.ca (climate.weather.gc.ca)... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+200 OK
+Length: unspecified [application/force-download]
+Length: unspecified [application/force-download]
+Saving to: ‘/Users/athmhak/lab1/input/.csv’
+Saving to: ‘/Users/athmhak/lab1/input/.csv’
+
+     0K ..
+     0K..... ......... .......... .......... .......... ...... .......... ........... .......... .............  815K
+    50K .....  815K
+    50K ........... ............ .............. .. .................... ..... .............. ...... ............ 1.79M
+   100K ... 1.79M
+   100K... ................ .. ........... .........        .. ...                                               131M    =0.09s
+
+   131M=0.09s
+
+2024-09-29 22:12:59 (1.36 MB/s) - ‘/Users/athmhak/lab1/input/.csv’ saved [126636]
+
+2024-09-29 22:12:59 (1.36 MB/s) - ‘/Users/athmhak/lab1/input/.csv’ saved [126636]
+
+Start to run Python Script
+/Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/athmhak/lab1/scripts/python_script.py': [Errno 2] No such file or directory
+/Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/athmhak/lab1/scripts/python_script.py': [Errno 2] No such file or directory
+PYTHON RUNNING FAILED
+[ERROR:] RETURN CODE:   2
+[ERROR:] REFER TO THE LOG FOR THE REASON FOR THE FAILURE.

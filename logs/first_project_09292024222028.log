@@ -1,0 +1,99 @@
+Start Download Data
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+--2024-09-29 22:20:28--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2020&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+--2024-09-29 22:20:28--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2020&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+Resolving climate.weather.gc.ca (climate.weather.gc.ca)... Resolving climate.weather.gc.ca (climate.weather.gc.ca)... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+200 OK
+Length: unspecified [application/force-download]
+Saving to: ‘/Users/athmhak/lab1/input/2020.csv’
+Length: unspecified [application/force-download]
+Saving to: ‘/Users/athmhak/lab1/input/2020.csv’
+
+     0K .......... ......
+     0K .......... .......... ............ ....... ....... .......... ................ ..........  851K
+    50K .......... ..........  851K
+    50K .......... .......... ............ .......... .......... ... ............. .......... 1.61M
+   100K ............ .... 1.61M
+   100K .......... ................. . .......      .......                                   221M=0.09s
+
+2024-09-29 22:20:28 (1.40 MB/s) - ‘/Users/athmhak/lab1/input/2020.csv’ saved [130712]
+
+             221M=0.09s
+
+2024-09-29 22:20:28 (1.40 MB/s) - ‘/Users/athmhak/lab1/input/2020.csv’ saved [130712]
+
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+--2024-09-29 22:20:28--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2021&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+--2024-09-29 22:20:28--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2021&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+Resolving climate.weather.gc.ca (climate.weather.gc.ca)... Resolving climate.weather.gc.ca (climate.weather.gc.ca)... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+200 OK
+Length: unspecified [application/force-download]
+Length: unspecified [application/force-download]
+Saving to: ‘/Users/athmhak/lab1/input/2021.csv’
+Saving to: ‘/Users/athmhak/lab1/input/2021.csv’
+
+     0K .......... .
+     0K ............... .......... ............. ......... .... .......... ................ ..........  812K
+    50K .......  812K
+    50K ............ ...... ........... ........... ............... .......... ... ............. ........... 2.19M
+   100K ............. 2.19M
+   100K .......... .......... ........ ..... ...                                                        120M=0.08s
+
+2024-09-29 22:20:30 (1.44 MB/s) - ‘/Users/athmhak/lab1/input/2021.csv’ saved [126714]
+
+      120M=0.08s
+
+2024-09-29 22:20:30 (1.44 MB/s) - ‘/Users/athmhak/lab1/input/2021.csv’ saved [126714]
+
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+WARNING: timestamping does nothing in combination with -O. See the manual
+for details.
+
+--2024-09-29 22:20:30--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2022&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+--2024-09-29 22:20:30--  https://climate.weather.gc.ca/climate_data/bulk_data_e.html?format=csv&stationID=48549&Year=2022&Month=2&Day=14&timeframe=1&submit=%20Download+Data
+Resolving climate.weather.gc.ca (climate.weather.gc.ca)... Resolving climate.weather.gc.ca (climate.weather.gc.ca)... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... 205.189.10.46
+Connecting to climate.weather.gc.ca (climate.weather.gc.ca)|205.189.10.46|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/force-download]
+200 OK
+Length: unspecified [application/force-download]
+Saving to: ‘/Users/athmhak/lab1/input/2022.csv’
+Saving to: ‘/Users/athmhak/lab1/input/2022.csv’
+
+     0K ..........
+     0K ... ........... ......... .............. ..... .......... .......... .............. ............  800K
+    50K .......... ......  800K.
+    50K .......... ......... ............... ........... ........ .. ............ .............. 1.98M
+   100K ........... 1.98M... ..
+   100K .................. ... ...  ....... ...                                                       171M  =0.09s
+
+   171M=0.09s
+
+2024-09-29 22:20:31 (1.38 MB/s) - ‘/Users/athmhak/lab1/input/2022.csv’ saved [126636]
+
+2024-09-29 22:20:31 (1.38 MB/s) - ‘/Users/athmhak/lab1/input/2022.csv’ saved [126636]
+
+Start to run Python Script
+PROGRAM SUCCEEDED

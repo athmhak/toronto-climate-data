@@ -1,0 +1,34 @@
+Start Download Data
+./test1.sh: line 33: year: command not found
+wget: invalid option -- '0'
+Usage: wget [OPTION]... [URL]...
+
+Try `wget --help' for more options.
+./test1.sh: line 33: year: command not found
+./test1.sh: line 33: year: command not found
+wget: invalid option -- '0'
+Usage: wget [OPTION]... [URL]...
+
+Try `wget --help' for more options.
+./test1.sh: line 33: year: command not found
+wget: invalid option -- '0'
+wget: invalid option -- '0'
+Usage: wget [OPTION]... [URL]...
+
+Try `wget --help' for more options.
+Usage: wget [OPTION]... [URL]...
+
+Try `wget --help' for more options.
+./test1.sh: line 33: year: command not found
+./test1.sh: line 33: year: command not found
+wget: invalid option -- '0'
+wget: invalid option -- '0'
+Usage: wget [OPTION]... [URL]...
+
+Try `wget --help' for more options.
+Usage: wget [OPTION]... [URL]...
+
+Try `wget --help' for more options.
+DOWNLOAD DATA FAILED
+[ERROR:] RETURN CODE:   2
+[ERROR:] REFER TO THE LOG FOR THE REASON FOR THE FAILURE.
