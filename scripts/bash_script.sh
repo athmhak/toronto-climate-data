@@ -20,7 +20,7 @@ export LOG_FILE=${LOGDIR}/${SHELL_SCRIPT_NAME}_${filenametime}.log
 ################################################################
 
 # SET LOG RULES
-exec > >(tee -a ${LOG_FILE}) #standard out
+exec 1> >(tee -a ${LOG_FILE}) #standard out
 exec 2> >(tee -a ${LOG_FILE}) #standard error outputted to the log file
 
 #tee is a standard for writing to log files
